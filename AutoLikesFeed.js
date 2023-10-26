@@ -6,8 +6,8 @@
   }
 
   // Waktu tunda minimum dan maksimum (dalam detik) antara setiap tindakan suka
-  const MIN_DELAY_SECONDS = 5;
-  const MAX_DELAY_SECONDS = 10;
+  const MIN_DELAY_SECONDS = 5; // Atur minimal delay
+  const MAX_DELAY_SECONDS = 10; // Atur maksimal delay
   var totalLikes = 0;
 
   // Fungsi untuk melakukan klik pada tombol suka
